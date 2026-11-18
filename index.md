@@ -25,6 +25,13 @@ Greater Bay HCI is a network of human–computer interaction researchers at univ
 - [GBA Pre-CHI 2025]({{ '/prechi2025/' | relative_url }}) · Conference programme
 - [GBA HCI Forum Pre-CHI 2024]({{ '/prechi2024/' | relative_url }}) · Forum archive
 
+## Activities | 学术交流
+
+- **Pre-CHI Symposium | 年度 Pre-CHI 论坛** · A venue for researchers to present and discuss HCI work ahead of ACM CHI.
+- **Doctoral Consortium | 博士生学术论坛** · Research feedback and mentorship for doctoral students.
+- **Confluence Seminars | 湾区智汇系列讲座** · Research talks and discussions involving researchers and industry practitioners.
+- **Research exchange | 学术互访** · Visits and exchanges among participating research groups.
+
 ## Contact | 联系我们
 
-Seungwoo Je · [seungwoo@sustech.edu.cn](mailto:seungwoo@sustech.edu.cn)
+For collaboration, sponsorship and new initiatives, contact Xiang Li (The University of Hong Kong) at [xianghci@hku.hk](mailto:xianghci@hku.hk).
