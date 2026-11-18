@@ -5,6 +5,15 @@ permalink: /event/
 position: 7
 ---
 
+## Event archive | 历届活动
+
+- [GBA Pre-CHI 2026]({{ '/prechi2026/' | relative_url }}) · 21–22 March 2026 · Shenzhen · [SUSTech event recap](https://designschool.sustech.edu.cn/news/893.html)
+- [Greater Bay HCI Summer School]({{ '/summerschool/' | relative_url }}) · 30 June–5 July 2025 · Shenzhen
+- [GBA Pre-CHI 2025]({{ '/prechi2025/' | relative_url }}) · Conference programme
+- [GBA HCI Forum Pre-CHI 2024]({{ '/prechi2024/' | relative_url }}) · Forum archive
+
+## Calendar | 活动日历
+
 <iframe src="https://calendar.google.com/calendar/embed?src=e5437755aa56250df01f979fd86e6617caedcc076d427bd5a1b004e30bdc48dd%40group.calendar.google.com&ctz=Asia%2FShanghai" 
         style="border: 0" 
         width="100%" 
