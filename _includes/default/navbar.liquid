@@ -1,36 +1,15 @@
 <header class="site-header">
-
   <div class="branding">
-    {% if site.avatar %}
-      <a href="{{ '/' | relative_url }}">
-        <img alt="logo img" class="site-logo" src="{{ site.avatar | relative_url }}" loading="lazy"/>
-      </a>
-    {% endif %}
+    <a href="{{ '/' | relative_url }}"><img class="site-logo" alt="Greater Bay HCI" src="{{ site.avatar | relative_url }}"></a>
   </div>
-
-  <nav class="clear">
-    <a aria-label="pull" id="pull" class="toggle" href="#">
-      <i class="fas fa-bars fa-lg"></i>
-    </a>
-
+  <nav class="clear" aria-label="Main navigation">
+    <a aria-label="Toggle navigation" id="pull" class="toggle" href="#"><i class="fas fa-bars fa-lg" aria-hidden="true"></i></a>
     <ul class="hide">
-      {% assign name_page = "" %}
-      {% assign emptyArray = '' | split: '' %}
-      {% assign menus = site.data.menu | default: emptyArray %}
-      {% assign pages = site.pages | concat: menus | sort: 'position' %}
-      {% for page in pages %}
-        {% unless page.title == null or page.hide or page.layout == 'page_customize_hide' or name_page contains page.title %}
-          <li class="separator"> | </li>
-          <li>
-            <a class="clear" aria-label="{{ page.title }}" title="{{ page.title }}" href="{{ page.url | relative_url }}">
-              {% if page.icon %} <i class="navbar-icon fas {{ page.icon }}" aria-hidden="true"></i>{% endif %}
-              <span class="navbar-label {% if page.icon %}navbar-label-with-icon{% endif%}">{{ page.title }}</span>
-            </a>
-          </li>
-        {% endunless %}
-        {% assign name_page = page.title | append: name_page %}
-      {% endfor %}
+      <li><a class="clear" href="{{ '/' | relative_url }}#tracks">Event Series</a></li>
+      <li class="separator" aria-hidden="true"> | </li>
+      <li><a class="clear" href="{{ '/faculty/' | relative_url }}">Community</a></li>
+      <li class="separator" aria-hidden="true"> | </li>
+      <li><a class="clear" href="{{ '/event/' | relative_url }}">Past Events</a></li>
     </ul>
-
   </nav>
 </header>
