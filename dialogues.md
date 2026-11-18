@@ -1,0 +1,6 @@
+---
+layout: default
+title: "GBA Dialogues"
+permalink: /dialogues/
+---
+<article class="story dialogues"><p class="eyebrow"><a href="/#series">Confluence</a> / Cross-disciplinary panels</p><h1>GBA Dialogues</h1><p class="cn">湾区对话</p><p class="intro">Researchers and industry practitioners examine a shared question from different disciplines and institutional settings.</p><p lang="zh-Hans">圆桌嵌入 Pre-CHI 及其他会前活动，由委员会与承办单位共同策划。</p><div class="block story-grid"><section><h2>Panel format</h2><p>Each plenary brings together one moderator and three or four panelists from different universities and industry partners. The committee and local host select the question and invite speakers directly.</p></section><section><h2>Questions for discussion</h2><p>How does embodied AI change spatial interaction? Where can the Greater Bay Area’s manufacturing networks support HCI research? How can early-career researchers build collaborations across institutions?</p></section><section><h2>Where to attend</h2><p>Dialogues forms part of the annual Pre-CHI programme and bid-based Pre-UIST, Pre-UbiComp and Pre-IEEE VR events. Consult each edition’s programme for the panel and speakers.</p></section></div><a class="cta" href="/pre-chi/">Explore GBA Pre-CHI →</a></article>

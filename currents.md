@@ -1,0 +1,6 @@
+---
+layout: default
+title: "GBA Currents"
+permalink: /currents/
+---
+<article class="story currents"><p class="eyebrow"><a href="/#series">Confluence</a> / Research showcases & doctoral consortium</p><h1>GBA Currents</h1><p class="cn">湾区新潮</p><p class="intro">Students, postdocs and emerging researchers rehearse conference presentations and discuss work in progress with mentors across the region.</p><p lang="zh-Hans">以年度 Pre-CHI 为旗舰，结合其他顶会前哨活动，开展论文快闪、海报交流与博士生指导。</p><div class="block story-grid"><section><h2>Present a paper</h2><p>Authors of accepted papers, posters and demos give three-to-five-minute talks and take questions during a poster session. Local hosts also organize networking, lab visits and demonstrations.</p></section><section><h2>Doctoral consortium</h2><p>PhD students submit a short research statement. A cross-institutional mentor panel discusses research direction, paper framing and academic careers with participants.</p></section><section><h2>Host an edition</h2><p>Pre-CHI takes place each March or April. Universities can bid for Pre-IEEE VR (January–February), Pre-UbiComp (August–September) and Pre-UIST (September–October). Hosting calls open eight to ten weeks ahead and participation calls four to six weeks ahead.</p></section></div><a class="cta" href="/pre-chi/">Explore GBA Pre-CHI →</a></article>
