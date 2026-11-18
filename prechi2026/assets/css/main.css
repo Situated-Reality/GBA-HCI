@@ -1,0 +1,12 @@
+
+/* Reading layout for the archived annual programmes */
+body:is(.page-wrapper,.min-vh-100){font-family:"Helvetica Neue",Arial,sans-serif;line-height:1.6}
+body :is(main,article,section) :is(h1,h2){font-family:Georgia,"Times New Roman",serif;letter-spacing:-.035em;line-height:1.13}
+body :is(.article-container,.prose){max-width:75ch;margin-inline:auto}
+body :is(.card,.wg-card){border-radius:3px;box-shadow:none}
+body :is(main,article) a:focus-visible{outline:3px solid #298575;outline-offset:3px}
+body :is(header,nav) a{text-underline-offset:.25em}
+@media(max-width:700px){body :is(article,main) table{display:block;overflow-x:auto}body :is(article,main) img{max-width:100%}}
+.navbar .container-fluid,.navbar-brand{align-items:center}.navbar-brand{display:flex}.navbar{min-height:70px}
+body.min-vh-100{--bs-body-bg:#f9f8f3;--bs-body-color:#182e32}
+body.min-vh-100 main>:is(section,.container){padding-block:clamp(1.5rem,4vw,3.5rem)}
