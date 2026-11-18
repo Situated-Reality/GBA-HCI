@@ -22,13 +22,16 @@ permalink: /faculty/
 <li><strong>Ziqian Bai</strong><span>SUSTech</span></li>
 <li><strong>Taizhou Chen</strong><span>Shantou University</span></li>
 <li><strong>Mingming Fan</strong><span>HKUST (Guangzhou)</span></li>
+<li><strong>BoYu Gao</strong><span>Jinan University</span></li>
 <li><strong>Seungwoo Je</strong><span>SUSTech</span></li>
 <li><strong>Yuhua Jin</strong><span>CUHK-Shenzhen</span></li>
 <li><strong>RAY LC</strong><span>CityUHK</span></li>
 <li><strong>Qinyuan Lei</strong><span>CityUHK</span></li>
 <li><strong>Wei Li</strong><span>Beijing Normal University</span></li>
+<li><strong>Xiang Li</strong><span>The University of Hong Kong</span></li>
 <li><strong>Xueliang Li</strong><span>SUSTech</span></li>
 <li><strong>Zhiyin Li</strong><span>CityUHK</span></li>
+<li><strong>Hai-Ning Liang</strong><span>HKUST (Guangzhou)</span></li>
 <li><strong>Can Liu</strong><span>CityUHK</span></li>
 <li><strong>Wei Liu</strong><span>University of Macau</span></li>
 <li><strong>Tao Luo</strong><span>SUSTech</span></li>
