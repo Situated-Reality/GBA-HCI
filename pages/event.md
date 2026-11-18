@@ -1,31 +1,6 @@
 ---
-layout: page
-title: Past Events
+layout: default
+title: "Past events"
 permalink: /event/
 ---
-
-Browse previous GBA-HCI forums, programmes and workshops.
-
-<p lang="zh-Hans">浏览历届大湾区人机交互论坛、会议日程及工作坊。</p>
-
-## 2026
-
-- [GBA Pre-CHI 2026]({{ '/prechi2026/' | relative_url }}) · 21–22 March · Shenzhen · [SUSTech recap](https://designschool.sustech.edu.cn/news/893.html)
-
-## 2025
-
-- [Greater Bay HCI Summer School]({{ '/summerschool/' | relative_url }}) · 30 June–5 July · Shenzhen
-- [GBA Pre-CHI 2025]({{ '/prechi2025/' | relative_url }}) · Conference programme
-
-## 2024
-
-- [GBA HCI Forum Pre-CHI 2024]({{ '/prechi2024/' | relative_url }}) · Forum archive
-- [Doctoral Consortium 2024]({{ '/doctoral/' | relative_url }}) · Archived call and programme information
-
-## Other events <span lang="zh-Hans">其他历届活动</span>
-
-<ul>
-{% for post in site.posts %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> · <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%-d %B %Y' }}</time></li>
-{% endfor %}
-</ul>
+<p class="eyebrow">Chapter archive</p><h1>Past events</h1><p class="intro">Programmes, workshops and conference records from across the Greater Bay Area.</p><p class="cn">大湾区人机交互活动档案</p><section class="block"><h2>2026</h2><div class="rows"><a class="row " href="/prechi2026/"><span class=""><strong>Pre-CHI 2026</strong><small></small></span><span>21–22 March · Shenzhen</span><i aria-hidden="true">↗</i></a></div><a class="cta" href="https://designschool.sustech.edu.cn/news/893.html">Read the SUSTech recap ↗</a></section><section><h2>2025</h2><div class="rows"><a class="row " href="/summerschool/"><span class=""><strong>Greater Bay HCI Summer School</strong><small></small></span><span>30 June–5 July · Shenzhen</span><i aria-hidden="true">↗</i></a><a class="row " href="/prechi2025/"><span class=""><strong>Pre-CHI 2025</strong><small></small></span><span>Conference programme</span><i aria-hidden="true">↗</i></a></div></section><section><h2>2024</h2><div class="rows"><a class="row " href="/prechi2024/"><span class=""><strong>Pre-CHI 2024</strong><small></small></span><span>GBA HCI Forum archive</span><i aria-hidden="true">↗</i></a><a class="row " href="/doctoral/"><span class=""><strong>Doctoral Consortium</strong><small></small></span><span>Call and programme information</span><i aria-hidden="true">↗</i></a></div></section>{% if site.posts.size > 0 %}<section><h2>More from the archive</h2><div class="rows">{% for post in site.posts %}<a class="row" href="{{ post.url | relative_url }}"><strong>{{ post.title | escape }}</strong><span>{{ post.date | date: "%-d %B %Y" }}</span></a>{% endfor %}</div></section>{% endif %}
